@@ -1,14 +1,8 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+title: "Apps"
+permalink: /apps/
 layout: splash
-author_profile: false
-header:
-  overlay_image: assets\images\bio-photo.jpg
-  actions:
-    - label: "Business Central Apps"
-      url: "/apps"
+author_profile: true
 gallery:
   - url: assets\images\bio-photo.jpg
     image_path: assets\images\bio-photo.jpg
@@ -27,4 +21,4 @@ gallery:
     alt: "placeholder image 4"
     title: "Image 4 title caption"
 ---
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery %}
