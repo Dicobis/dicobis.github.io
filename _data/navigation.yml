@@ -3,3 +3,9 @@ main:
     url: /about/
   - title: "Apps"
     url: /apps/
+
+docs:
+  - title: "Contact"
+    url: /about/
+  - title: "Apps"
+    url: /apps/
