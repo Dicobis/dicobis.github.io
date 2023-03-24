@@ -18,7 +18,7 @@ feature_row:
   - url: "assets/images/IssueManagement.jpg"
     image_path: "assets/images/IssueManagement.jpg"
     alt: "Issue Management"
-    title: "Image 3 title caption"
+    title: "Issue Management"
     excerpt: "Bind your JIRA Issue Collector to Business Central"
   - url: "assets/images/TextEditor.jpg"
     image_path: "assets/images/TextEditor.jpg"
