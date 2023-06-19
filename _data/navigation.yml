@@ -3,6 +3,10 @@ main:
     url: /about/
   - title: "Apps"
     url: /apps/
+  - title: "Privacy Policy"
+    url: /privacypolicy/
+  - title: "Terms of Use"
+    url: /termsofuse/
 
 docs:
   - title: "Contact"
