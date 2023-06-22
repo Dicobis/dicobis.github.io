@@ -1,7 +1,8 @@
 ---
 permalink: /about/
-title: "Contact"
+author_profile: false
+title: "Contact our support team"
 ---
+Mail: hello@innovate365.de
 
-# Contact our support team
-
+Phone: +49 2383 613980

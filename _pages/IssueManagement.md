@@ -9,7 +9,7 @@ sidebar:
     image_alt: "Logo"
     text: Get in on Microsoft AppSource
   - title: Contact
-    text: "Mail: hello@innovate365.de<br>Phone: +491622538725"
+    text: "Mail: hello@innovate365.de<br>Phone: +49 2383 613980"
 ---
 
 ## Create JIRA Issues from Business Central
